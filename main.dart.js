@@ -44749,7 +44749,7 @@ L.oP.prototype={
 aJ:function(){return new L.BD(C.m)}}
 L.BD.prototype={
 K:function(a,b){var s=4280164390,r=null,q=L.lO("Ami's Intro",r),p=T.jN(r,30,r),o=new Y.cT(C.vD.h(0,900),1,C.E),n=K.Fs(100)
-return new M.pn(new E.mX(q,new P.y(s),new P.W(1/0,56),r),T.u7(T.a42(H.d([p,M.uk(r,new U.nX(M.a6_(r,r,new L.mZ("assets/ami.jpg",r,r)),C.nS,r),C.kV,r,r,new S.dA(r,r,new F.cj(o,o,o,o),n,r,r,C.Z),150,r,r,150),T.jN(r,10,r),L.lO("Amina UC",A.ii(r,r,C.j,r,r,r,r,r,r,r,r,18,C.or,C.c5,r,r,!0,r,r,r,r,r,r)),T.jN(r,10,r),L.lO("Mobile App Developer",A.ii(r,r,C.j,r,r,r,r,r,r,r,r,18,r,r,r,r,!0,r,r,r,r,r,r)),T.jN(r,10,r),L.lO("Legere Technologies, Edappally",A.ii(r,r,C.j,r,r,r,r,r,r,r,r,18,r,r,r,r,!0,r,r,r,r,r,r))],t.fQ),C.oi,C.p8),r,r),new P.y(s),new B.oo(new L.Sk(b),C.k,C.w3,L.lO("TAP ME",r),100,45,r),r)}}
+return new M.pn(new E.mX(q,new P.y(s),new P.W(1/0,56),r),T.u7(T.a42(H.d([p,M.uk(r,new U.nX(M.a6_(r,r,new L.mZ("ami.jpg",r,r)),C.nS,r),C.kV,r,r,new S.dA(r,r,new F.cj(o,o,o,o),n,r,r,C.Z),150,r,r,150),T.jN(r,10,r),L.lO("Amina UC",A.ii(r,r,C.j,r,r,r,r,r,r,r,r,18,C.or,C.c5,r,r,!0,r,r,r,r,r,r)),T.jN(r,10,r),L.lO("Mobile App Developer",A.ii(r,r,C.j,r,r,r,r,r,r,r,r,18,r,r,r,r,!0,r,r,r,r,r,r)),T.jN(r,10,r),L.lO("Legere Technologies, Edappally",A.ii(r,r,C.j,r,r,r,r,r,r,r,r,18,r,r,r,r,!0,r,r,r,r,r,r))],t.fQ),C.oi,C.p8),r,r),new P.y(s),new B.oo(new L.Sk(b),C.k,C.w3,L.lO("TAP ME",r),100,45,r),r)}}
 L.Sk.prototype={
 $0:function(){var s=V.Zm(new L.Sj(),null,t.z)
 K.Kz(this.a).nM(s)},
